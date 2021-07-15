@@ -1,0 +1,19 @@
+Welcome To Split!
+
+Created by Jeremy Hernandez
+
+*** This project is built using Swift 5 and Xcode 11.5.
+
+*** IN ORDER TO RUN ***
+
+Open Xcode on MacOS or Windows.
+
+Run the Split.xcodeproj or Split.xcworkspace to view and run the project.
+
+Select the IOS Simulator
+
+Only run on the iPhone 11 or IPhone 11 pro max. This app was only design for these two models.
+
+Run simulator.
+
+*** If you have any questions regarding how it works, please refer to the Split Project Report ***
